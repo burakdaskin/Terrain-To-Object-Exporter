@@ -14,4 +14,5 @@ Note: High-res terrains exported at full resolution will result in very large .o
 
 
 Authors: Eric Haines (Eric5h5): original & Yun Kyu Choi: C# conversion & Bit Barrel media: progress bar fix.
+
 Reference: http://wiki.unity3d.com/index.php?title=TerrainObjExporter
