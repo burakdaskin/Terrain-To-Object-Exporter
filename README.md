@@ -1,6 +1,12 @@
 # Terrain-To-Object-Exporter
 Exports a Unity terrain object as an .obj file that can be loaded into various 3D apps. Requires Unity 2.5 or later.
 
+![alt text](https://github.com/burakdaskin/Terrain-To-Object-Exporter/blob/main/exporter1.png?raw=true)
+
+![alt text](https://github.com/burakdaskin/Terrain-To-Object-Exporter/blob/main/exporter2.png?raw=true)
+
+![alt text](https://github.com/burakdaskin/Terrain-To-Object-Exporter/blob/main/exporter3.png?raw=true)
+
 Usage
 You must place the script in a folder named Editor in your project's Assets folder for it to work properly. Also it must be called "ExportTerrain" or it won't run.
 
